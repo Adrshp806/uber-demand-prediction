@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
+dask
+dvc
+dvc[s3]
+optuna
+mlflow
+dagshub
